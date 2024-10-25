@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Scrin - Your Ultimate Wallpaper App
